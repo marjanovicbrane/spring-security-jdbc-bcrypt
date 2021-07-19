@@ -15,4 +15,13 @@ public class LoginController {
 		return "fancy-login";
 	}
 
+	
+	//we want to show our access denied page, for example when user try to access MANAGER or ADMIN 
+	//information, with user ROLE EMPLOYEE.
+	@GetMapping("/access-denied")
+	public String showAccessDenied() {
+		
+		return "access-denied";
+	}
+	
 }
