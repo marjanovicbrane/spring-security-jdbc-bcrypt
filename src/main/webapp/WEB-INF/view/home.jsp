@@ -56,7 +56,7 @@ SO WE CAN SHOW USERNAME AND ROLES, WHEN WE ARE LOGGED IN SYSTEM. -->
 	 THE SAME APPROACH WE ARE USING HEREAND WE CAN USE THIS PARAMETER logout to show some message:
 	 You have been logged out. wE ARE USING postmethod because we sending data to server,
 	 because we want to logout the user from the system and we also removing HTTP SESSION,COOKIES,ITD... -->
-	<form:form action="${pageContext.request.contextPath}/logout" metho="POST">
+	<form:form action="${pageContext.request.contextPath}/logout" method="POST">
 	
 	<input type="submit" value="Logout" />
 	
