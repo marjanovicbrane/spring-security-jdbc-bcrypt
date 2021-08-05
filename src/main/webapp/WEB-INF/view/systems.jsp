@@ -1,10 +1,10 @@
 <html>
 <head>
-	<title>luv2code SYSTEMS Home Page</title>
+	<title>SYSTEMS Home Page</title>
 </head>
 
 <body>
-<h2>luv2code SYSTEMS Home Page</h2>
+<h2>SYSTEMS Home Page</h2>
 <hr>
 
 <p>
