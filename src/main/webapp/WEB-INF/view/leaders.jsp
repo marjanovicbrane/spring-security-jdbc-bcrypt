@@ -1,10 +1,10 @@
 <html>
 <head>
-	<title>luv2code LEADERS Home Page</title>
+	<title>LEADERS Home Page</title>
 </head>
 
 <body>
-<h2>luv2code LEADERS Home Page</h2>
+<h2>LEADERS Home Page</h2>
 <hr>
 
 <p>
