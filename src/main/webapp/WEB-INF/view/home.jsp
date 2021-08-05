@@ -10,15 +10,15 @@ SO WE CAN SHOW USERNAME AND ROLES, WHEN WE ARE LOGGED IN SYSTEM. -->
 <!-- This is page which will show up for this mapping showHome(/) from controller class -->
 
 <head>
-	<title>luv2code Company Home Page</title>
+	<title>Company Home Page</title>
 </head>
 
 <body>
-	<h2>luv2code Company Home Page</h2>
+	<h2>Company Home Page</h2>
 	<hr>
 
 	<p>
-	Welcome to the luv2code company home page!
+	Welcome to the company home page!
 	</p>
 	
 	
